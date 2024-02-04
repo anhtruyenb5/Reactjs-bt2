@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.background {
+  background-image: url(https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
